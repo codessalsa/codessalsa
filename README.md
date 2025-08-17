@@ -9,7 +9,7 @@
 ## 🙋‍♀️ About Me
 
 ```javascript
-const salsabila = {
+const salsa = {
   education: "SMK Negeri 4 Banjarmasin (Grade 12)",
   major: "Software Engineering",
   currentlyLearning: ["Laravel", "Web Development", "Mobile Development"],
@@ -47,51 +47,15 @@ const salsabila = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-### 📅 **Student Attendance App**
-*Built with Laravel & MySQL*
-> A comprehensive attendance management system for educational institutions
-
-### 🛒 **Simple E-commerce Website**
-*Full-stack web application*
-> Complete online shopping platform with user-friendly interface
-
-### 📊 **Employee Data Management System**
-*Database-driven application*
-> Efficient system for managing employee information and records
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-More_Projects_Coming_Soon!-FF6B9D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Badge" />
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codessalsa&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gradient" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
 </div>
 
 ---
