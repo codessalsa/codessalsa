@@ -46,25 +46,6 @@ const salsa = {
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codessalsa&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codessalsa&layout=compact&langs_count=7&theme=gradient"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codessalsa&theme=gradient" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
   
 ### 💫 *"Code is poetry written in logic"*
 
