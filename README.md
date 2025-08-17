@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Salsa**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Aspiring+Fullstack+Developer;Software+Engineering+Student;Laravel+%26+Web+Developer;Mobile+App+Enthusiast;Building+Cool+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Laravel+%26+Web+Developer;Mobile+App+Enthusiast;Aspiring+Fullstack+Developer;Building+Cool+Projects!" alt="Typing SVG" />
 </div>
 
 ---
